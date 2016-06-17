@@ -1,0 +1,1 @@
+Main-Class: org.eclipse.packagedrone.demo2016.generator.Application
